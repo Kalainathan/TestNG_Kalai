@@ -1,1 +1,3 @@
 hello i am new branch
+
+text added in second branch in git hub
